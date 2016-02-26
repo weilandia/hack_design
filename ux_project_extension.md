@@ -1,3 +1,6 @@
+##UX Project Extension
+* Extension requires documentation of each of the following tasks/processes
+
 ###Product Planning
 #####Know Your Users (The Journey & The Persona)
 * Journey map: Journey maps are a visual interpretation of a user's relationship with a product over time.
