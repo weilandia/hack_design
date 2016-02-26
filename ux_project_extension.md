@@ -1,7 +1,7 @@
 ##UX Project Extension
 * Extension requires documentation of each of the following tasks/processes
 
-###Pre-Code
+###Pre-Code:
 
 ###Product Planning
 #####Know Your Users (The Journey & The Persona)
