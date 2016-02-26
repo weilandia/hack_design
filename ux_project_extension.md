@@ -12,10 +12,10 @@
   * A quote that captures the ideal user's attitude in general, or towards product
   * Other brands or websites the ideal user may like
 #####Information Architecture
-  * Sitemap
+  * Sitemap (sticky notes as a group, then visio)
   * Features Roadmap (use waffle)
 ###UI Design
-  * Low-fidelity prototype/wireframes
+  * Low-fidelity ![prototype/wireframes](https://www.google.com/search?q=low+fidelity+wireframe&espv=2&biw=582&bih=616&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjemM7615TLAhUD7GMKHedJDBMQsAQIGw)
 ###Design Strategy
   * Use wireframes to drive the creation of user stories
 ###User Research and Validation
