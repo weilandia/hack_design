@@ -1,4 +1,3 @@
-![UX Process](images/ux-process)
 ###Product Planning
 #####Know Your Users (The Journey & The Persona)
 * Journey map: Journey maps are a visual interpretation of a user's relationship with a product over time.
@@ -15,12 +14,12 @@
   * Sitemap (sticky notes as a group, then visio)
   * Features Roadmap (use waffle)
 ###UI Design
-  * Low-fidelity ![prototype/wireframes](https://www.google.com/search?q=low+fidelity+wireframe&espv=2&biw=582&bih=616&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjemM7615TLAhUD7GMKHedJDBMQsAQIGw)
+  * Low-fidelity [prototype/wireframes](https://www.google.com/search?q=low+fidelity+wireframe&espv=2&biw=582&bih=616&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjemM7615TLAhUD7GMKHedJDBMQsAQIGw)
 ###Design Strategy
   * Use wireframes to drive the creation of user stories
 ###User Research and Validation
   * Documented feedback from usability tests with prototype (pre-code)
   * Features added to Features Roadmap based on feedback
 ###Extensions
-  * ![Accessibility Analysis](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.s1nnugogw)
-  * ![A/B Testing](https://en.wikipedia.org/wiki/A/B_testing)
+  * [Accessibility Analysis](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.s1nnugogw)
+  * [A/B Testing](https://en.wikipedia.org/wiki/A/B_testing)
