@@ -1,6 +1,8 @@
 ##UX Project Extension
 * Extension requires documentation of each of the following tasks/processes
 
+###Pre-Code
+
 ###Product Planning
 #####Know Your Users (The Journey & The Persona)
 * Journey map: Journey maps are a visual interpretation of a user's relationship with a product over time.
@@ -27,6 +29,12 @@
 ###User Research and Validation
 * Documented feedback from usability tests with prototype (pre-code)
 * Features added to Features Roadmap based on feedback
+
+##Post-code:
+
+###User Research and Validation
+* Documented feedback from usability tests
+* Feature Map for next spike
 
 ###Extensions
 * [Accessibility Analysis](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.s1nnugogw)
